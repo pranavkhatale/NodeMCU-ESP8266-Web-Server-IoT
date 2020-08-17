@@ -1,6 +1,6 @@
 # NodeMCU-ESP8266-Web-Server-IoT
 
-_In this project documentation of a standalone ESP8266 Web Server that controls two outputs (two LEDs) is documented. This ESP8266 NodeMCU Web Server is mobile responsive and it can be accessed with any device with a Web Browser in local network._
+_In this project a standalone ESP8266 Web Server that controls two outputs (two LEDs) is documented. This ESP8266 NodeMCU Web Server is mobile responsive and it can be accessed with any device with a Web Browser in local network._
 
 ![](https://github.com/pranavkhatale/NodeMCU-ESP8266-Web-Server-IoT/raw/master/Images%20included%20in%20read.md/1.Project%20Image.jpg)
 
